@@ -1,0 +1,7 @@
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs2\bin\Debug\Fsd.Sebastian.Cs2.exe.config
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs2\bin\Debug\Fsd.Sebastian.Cs2.exe
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs2\bin\Debug\Fsd.Sebastian.Cs2.pdb
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs2\obj\Debug\Fsd.Sebastian.Cs2.csprojResolveAssemblyReference.cache
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs2\obj\Debug\Fsd.Sebastian.Cs2.csproj.CoreCompileInputs.cache
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs2\obj\Debug\Fsd.Sebastian.Cs2.exe
+E:\Projects\fsd-second-edition\src\nasuta-sebastian\Fsd.Sebastian.Cs\Fsd.Sebastian.Cs2\obj\Debug\Fsd.Sebastian.Cs2.pdb
